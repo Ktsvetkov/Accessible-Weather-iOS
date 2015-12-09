@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B6845551996D1A14CDAD0B7000551575C79D325E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B6845551996D1A14CDAD0B7000551575C79D325E" : 0,
+    "E777C1BC5BAF322C0CBC94A29857744E27135A87" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D6215FC3-7928-483A-88B7-48DBCDFC29E6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B6845551996D1A14CDAD0B7000551575C79D325E" : "Accessible-Weather-App-iOS-",
+    "E777C1BC5BAF322C0CBC94A29857744E27135A87" : "Accessible%20App"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Accessible App",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Accessible App.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/saqlaingolandaz\/Accessible-Weather-App-iOS-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B6845551996D1A14CDAD0B7000551575C79D325E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/saqlaingolandaz\/iOS-Accessible-Weather-App.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E777C1BC5BAF322C0CBC94A29857744E27135A87"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D6215FC3-7928-483A-88B7-48DBCDFC29E6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Accessible App</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B6845551996D1A14CDAD0B7000551575C79D325E</key>
+		<string>https://github.com/saqlaingolandaz/Accessible-Weather-App-iOS-.git</string>
+		<key>E777C1BC5BAF322C0CBC94A29857744E27135A87</key>
+		<string>https://github.com/saqlaingolandaz/iOS-Accessible-Weather-App.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Accessible App.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B6845551996D1A14CDAD0B7000551575C79D325E</key>
+		<string>../..</string>
+		<key>E777C1BC5BAF322C0CBC94A29857744E27135A87</key>
+		<string>../../../Accessible%20App</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/saqlaingolandaz/Accessible-Weather-App-iOS-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B6845551996D1A14CDAD0B7000551575C79D325E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B6845551996D1A14CDAD0B7000551575C79D325E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Accessible-Weather-App-iOS-</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E777C1BC5BAF322C0CBC94A29857744E27135A87</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Accessible%20App</string>
+		</dict>
+	</array>
+</dict>
+</plist>
